@@ -3,11 +3,11 @@
 <suite name="Suite">
 	<listeners>
 		<listener class-name="com.SwagLabs.Utility.ListenerSetUp"/>
-<listener class-name="com.SwagLabs.Utility.ExtentReportNG"/>
+    <listener class-name="com.SwagLabs.Utility.ExtentReportNG"/>
 	</listeners>
   <test thread-count="5" name="Test">
 	  <classes>
-		  
+		  <class name="com.SwagLabs.Testlayer.LoginTest"/>
 	  </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

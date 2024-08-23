@@ -1,5 +1,6 @@
 package com.SwagLabs.Utility;
 
+import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
@@ -21,14 +22,16 @@ public class ListenerSetUp extends TestBase implements ITestListener {
 	@Override
 	public void onTestFailure(ITestResult result) {
 		
-		Takesscreenshot ts = new Takesscreenshot();
-		ts.getscreenshot(result.getName());
 		logger.info(result.getName()+"Test is failure");
+		Takesscreenshot.getscreenshot(result.getName());
+		
 	}
 
 	@Override
 	public void onTestSkipped(ITestResult result) {
 	logger.info(result.getName()+"Test is skipped");
 	}
+
+
 
 }
