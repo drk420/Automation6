@@ -20,8 +20,9 @@ public class ListenerSetUp extends TestBase implements ITestListener {
 
 	@Override
 	public void onTestFailure(ITestResult result) {
+		
 		Takesscreenshot ts = new Takesscreenshot();
-		ts.getscreenshot();
+		ts.getscreenshot(result.getName());
 		logger.info(result.getName()+"Test is failure");
 	}
 

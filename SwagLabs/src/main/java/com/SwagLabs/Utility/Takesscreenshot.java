@@ -11,11 +11,12 @@ import com.SwagLabs.TestBase.TestBase;
 
 public class Takesscreenshot extends TestBase {
 
-	public void getscreenshot()  {
+	public void getscreenshot(String filename)  {
+		
 		try {
 		TakesScreenshot ts = (TakesScreenshot)driver;
 	File src =	ts.getScreenshotAs(OutputType.FILE);
-	String path = "D:\\Automation\\Automation6\\SwagLabs\\target\\screenshots.png";
+	String path = "D:\\Automation\\Automation6\\SwagLabs\\target\\filename.png";
 		File des = new File(path);
 		
 		
