@@ -1,0 +1,132 @@
+2024-08-23 20:04:21,975 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 20:04:27,983 - SwaglLabs -INFO - Framework closed
+2024-08-23 20:08:00,154 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 20:08:03,743 - SwaglLabs -INFO - Framework closed
+2024-08-23 20:14:09,762 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 20:14:18,056 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 20:14:18,437 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 20:14:28,423 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 20:14:28,888 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is completed
+2024-08-23 20:14:29,058 - SwaglLabs -INFO - Framework closed
+2024-08-23 20:18:25,355 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 20:18:33,594 - SwaglLabs -INFO - Framework closed
+2024-08-23 20:24:24,203 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 20:24:27,537 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:20:44,723 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:20:53,291 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:23:03,470 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:23:08,448 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:30:49,988 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:30:55,025 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:32:12,752 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:32:18,817 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:32:37,752 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:32:41,857 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 21:32:42,138 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 21:32:46,388 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 21:32:46,708 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 21:32:46,810 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:39:32,890 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:39:36,599 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:41:47,491 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:41:50,483 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:42:53,437 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:42:57,847 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:43:13,058 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:43:15,720 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 21:43:15,971 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 21:43:18,739 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 21:43:18,954 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 21:43:19,156 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:52:08,347 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:52:09,756 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 21:52:09,756 - SwaglLabs -INFO - validatelogintestTest is skipped
+2024-08-23 21:52:09,766 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 21:52:09,766 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-23 21:52:09,772 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:52:56,115 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:53:00,553 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 21:53:00,812 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 21:53:03,208 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 21:53:03,436 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 21:53:03,634 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:54:51,711 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:54:54,390 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 21:54:54,653 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 21:54:57,355 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 21:54:57,571 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 21:54:57,766 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:55:43,962 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:55:47,049 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 21:55:47,304 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 21:55:50,082 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 21:55:50,302 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 21:55:50,492 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:57:05,471 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:57:07,967 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 21:57:08,208 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 21:57:10,396 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 21:57:10,628 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 21:57:10,823 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:57:33,550 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:57:36,379 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 21:57:36,633 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 21:57:38,872 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 21:57:39,087 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 21:57:39,274 - SwaglLabs -INFO - Framework closed
+2024-08-23 21:58:23,444 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 21:58:26,206 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 21:58:26,455 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 21:58:29,032 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 21:58:29,235 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 21:58:29,436 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:00:07,493 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:00:11,629 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 22:00:11,902 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 22:00:14,618 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 22:00:14,859 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 22:00:15,060 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:02:27,741 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:02:30,394 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 22:02:30,663 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 22:02:33,116 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 22:02:33,344 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 22:02:33,537 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:03:45,628 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:03:48,122 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 22:03:48,368 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 22:03:51,111 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 22:03:51,354 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 22:03:51,538 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:04:37,970 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:04:41,453 - SwaglLabs -INFO - validatelogintestTest is started
+2024-08-23 22:04:41,709 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-08-23 22:04:44,428 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-08-23 22:04:44,643 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-23 22:04:44,825 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:28:46,178 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:28:48,553 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:29:19,594 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:29:31,367 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:29:44,909 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:29:45,403 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:29:50,713 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:29:57,700 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:30:02,112 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:30:15,803 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:30:19,988 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:31:10,135 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:31:35,911 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:33:34,214 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:33:53,588 - SwaglLabs -INFO - 
+2024-08-23 22:33:58,774 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:35:40,387 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:36:03,756 - SwaglLabs -INFO - 
+2024-08-23 22:36:08,881 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:37:34,441 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:38:02,463 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:39:04,108 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:39:32,019 - SwaglLabs -INFO - Framework closed
+2024-08-23 22:42:01,341 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-08-23 22:42:24,149 - SwaglLabs -INFO - https://www.saucedemo.com/cart.html
+2024-08-23 22:42:29,279 - SwaglLabs -INFO - Framework closed
