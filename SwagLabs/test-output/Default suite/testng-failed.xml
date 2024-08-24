@@ -6,8 +6,8 @@
       <class name="com.SwagLabs.Testlayer.Addtocarttest">
         <methods>
           <include name="stop"/>
+          <include name="validateaddtocartfunctionalitywithpricelowtohigh"/>
           <include name="setup"/>
-          <include name="validateaddtocarttest"/>
           <include name="close"/>
           <include name="start"/>
         </methods>
