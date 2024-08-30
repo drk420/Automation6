@@ -148,3 +148,401 @@
 2024-08-24 12:55:07,364 [main] INFO SwaglLabs - Price (high to low)
 2024-08-24 12:55:32,557 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
 2024-08-24 12:55:37,710 [main] INFO SwaglLabs - Framework closed
+2024-08-30 18:42:13,006 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 18:42:22,574 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 18:42:23,034 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 18:42:25,257 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 18:42:25,622 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 18:42:25,846 [main] INFO SwaglLabs - Framework closed
+2024-08-30 18:42:25,886 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 18:42:28,007 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 18:42:28,565 [main] INFO SwaglLabs - 4
+2024-08-30 18:42:28,582 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 18:42:28,593 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 18:42:28,605 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 18:42:28,619 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 18:42:53,831 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 18:42:58,839 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 18:43:00,984 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 18:43:21,573 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 18:43:26,588 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 18:43:26,818 [main] INFO SwaglLabs - Framework closed
+2024-08-30 18:44:06,942 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 18:44:09,368 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 18:44:09,776 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 18:44:11,896 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 18:44:12,227 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 18:44:12,459 [main] INFO SwaglLabs - Framework closed
+2024-08-30 18:44:12,492 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 18:44:14,661 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 18:44:15,245 [main] INFO SwaglLabs - 4
+2024-08-30 18:44:15,267 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 18:44:15,282 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 18:44:15,296 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 18:44:15,310 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 18:44:40,510 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 18:44:45,523 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 18:44:51,971 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 18:45:12,520 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 18:45:17,526 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 18:45:17,653 [main] INFO SwaglLabs - Framework closed
+2024-08-30 18:47:24,475 [TestNG-tests-1] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 18:47:24,478 [TestNG-tests-2] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 18:47:27,645 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 18:47:28,177 [TestNG-tests-2] INFO SwaglLabs - 4
+2024-08-30 18:47:28,197 [TestNG-tests-2] INFO SwaglLabs - Name (A to Z)
+2024-08-30 18:47:28,208 [TestNG-tests-2] INFO SwaglLabs - Name (Z to A)
+2024-08-30 18:47:28,219 [TestNG-tests-2] INFO SwaglLabs - Price (low to high)
+2024-08-30 18:47:28,230 [TestNG-tests-2] INFO SwaglLabs - Price (high to low)
+2024-08-30 18:47:33,416 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 18:47:33,865 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 18:47:36,600 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 18:47:37,068 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 18:47:37,321 [TestNG-tests-1] INFO SwaglLabs - Framework closed
+2024-08-30 18:47:48,429 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 18:47:48,434 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 18:47:48,434 [TestNG-tests-2] INFO SwaglLabs - Framework closed
+2024-08-30 19:28:26,195 [TestNG-tests-1] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:28:26,197 [TestNG-tests-2] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:28:30,393 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 19:28:30,835 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 19:28:51,291 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 19:28:51,295 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 19:30:22,379 [TestNG-tests-1] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:30:22,381 [TestNG-tests-2] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:30:27,655 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 19:30:28,159 [TestNG-tests-2] INFO SwaglLabs - 4
+2024-08-30 19:30:28,176 [TestNG-tests-2] INFO SwaglLabs - Name (A to Z)
+2024-08-30 19:30:28,191 [TestNG-tests-2] INFO SwaglLabs - Name (Z to A)
+2024-08-30 19:30:28,207 [TestNG-tests-2] INFO SwaglLabs - Price (low to high)
+2024-08-30 19:30:28,222 [TestNG-tests-2] INFO SwaglLabs - Price (high to low)
+2024-08-30 19:30:32,095 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 19:30:32,444 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 19:30:38,879 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 19:30:39,213 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 19:30:39,455 [TestNG-tests-1] INFO SwaglLabs - Framework closed
+2024-08-30 19:30:48,396 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 19:30:48,396 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 19:30:48,412 [TestNG-tests-2] INFO SwaglLabs - Framework closed
+2024-08-30 19:44:16,106 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:44:21,294 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 19:44:21,714 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 19:44:26,184 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 19:44:26,540 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 19:44:30,410 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 19:44:30,907 [main] INFO SwaglLabs - 4
+2024-08-30 19:44:30,925 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 19:44:30,940 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 19:44:30,953 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 19:44:30,968 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 19:44:59,805 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:44:59,830 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:44:59,849 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 19:44:59,850 [main] INFO SwaglLabs - validatelogintestTest is skipped
+2024-08-30 19:44:59,858 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 19:44:59,859 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-30 19:44:59,866 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:44:59,871 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 19:44:59,872 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is skipped
+2024-08-30 19:44:59,880 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 19:44:59,880 [main] INFO SwaglLabs - validateaddtocarttestTest is skipped
+2024-08-30 19:44:59,886 [main] INFO SwaglLabs - Framework closed
+2024-08-30 19:45:08,839 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:45:08,885 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:45:08,901 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 19:45:08,901 [main] INFO SwaglLabs - validatelogintestTest is skipped
+2024-08-30 19:45:08,911 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 19:45:08,912 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-30 19:45:08,921 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:45:08,926 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 19:45:08,927 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is skipped
+2024-08-30 19:45:08,937 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 19:45:08,938 [main] INFO SwaglLabs - validateaddtocarttestTest is skipped
+2024-08-30 19:45:08,944 [main] INFO SwaglLabs - Framework closed
+2024-08-30 19:46:11,821 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:46:11,851 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:46:11,865 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 19:46:11,866 [main] INFO SwaglLabs - validatelogintestTest is skipped
+2024-08-30 19:46:11,875 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 19:46:11,875 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-30 19:46:11,885 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:46:11,889 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 19:46:11,889 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is skipped
+2024-08-30 19:46:11,898 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 19:46:11,898 [main] INFO SwaglLabs - validateaddtocarttestTest is skipped
+2024-08-30 19:46:11,902 [main] INFO SwaglLabs - Framework closed
+2024-08-30 19:47:05,387 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:47:05,418 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:47:05,430 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 19:47:05,431 [main] INFO SwaglLabs - validatelogintestTest is skipped
+2024-08-30 19:47:05,438 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 19:47:05,439 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-30 19:47:05,448 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:47:05,452 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 19:47:05,453 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is skipped
+2024-08-30 19:47:05,460 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 19:47:05,461 [main] INFO SwaglLabs - validateaddtocarttestTest is skipped
+2024-08-30 19:47:05,464 [main] INFO SwaglLabs - Framework closed
+2024-08-30 19:50:18,426 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:50:18,458 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:50:18,471 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 19:50:18,472 [main] INFO SwaglLabs - validatelogintestTest is skipped
+2024-08-30 19:50:18,481 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 19:50:18,481 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-30 19:50:18,488 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:50:18,492 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 19:50:18,493 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is skipped
+2024-08-30 19:50:18,502 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 19:50:18,503 [main] INFO SwaglLabs - validateaddtocarttestTest is skipped
+2024-08-30 19:50:18,508 [main] INFO SwaglLabs - Framework closed
+2024-08-30 19:55:53,425 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 19:55:53,453 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:55:53,469 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 19:55:53,469 [main] INFO SwaglLabs - validatelogintestTest is skipped
+2024-08-30 19:55:53,469 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 19:55:53,469 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-30 19:55:53,484 [main] INFO SwaglLabs - provide correct browser
+2024-08-30 19:55:53,484 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 19:55:53,484 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is skipped
+2024-08-30 19:55:53,500 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 19:55:53,500 [main] INFO SwaglLabs - validateaddtocarttestTest is skipped
+2024-08-30 19:55:53,500 [main] INFO SwaglLabs - Framework closed
+2024-08-30 20:06:07,796 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:06:28,157 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 20:06:28,589 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 20:06:43,966 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 20:06:44,409 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 20:06:59,804 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 20:07:00,561 [main] INFO SwaglLabs - 4
+2024-08-30 20:07:00,571 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 20:07:00,581 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 20:07:00,590 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 20:07:00,599 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 20:07:26,134 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 20:07:31,149 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 20:07:38,762 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 20:07:59,731 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 20:08:04,738 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 20:08:05,607 [main] INFO SwaglLabs - Framework closed
+2024-08-30 20:34:52,745 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:35:10,891 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 20:35:11,329 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 20:35:21,518 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 20:35:21,964 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 20:35:34,980 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 20:35:35,586 [main] INFO SwaglLabs - 4
+2024-08-30 20:35:35,593 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 20:35:35,600 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 20:35:35,605 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 20:35:35,611 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 20:36:01,155 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 20:36:06,164 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 20:36:13,814 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 20:36:34,629 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 20:36:39,639 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 20:36:40,221 [main] INFO SwaglLabs - Framework closed
+2024-08-30 20:41:10,768 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:41:21,504 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 20:41:21,922 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 20:41:32,484 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 20:41:32,823 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 20:41:33,660 [main] INFO SwaglLabs - Framework closed
+2024-08-30 20:41:33,683 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:41:46,306 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 20:41:46,917 [main] INFO SwaglLabs - 4
+2024-08-30 20:41:46,925 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 20:41:46,930 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 20:41:46,936 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 20:41:46,942 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 20:42:12,423 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 20:42:17,428 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 20:42:26,367 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 20:42:47,186 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 20:42:52,194 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 20:42:52,761 [main] INFO SwaglLabs - Framework closed
+2024-08-30 20:46:06,912 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:46:16,123 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 20:46:16,496 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 20:46:24,663 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 20:46:24,998 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 20:46:25,972 [main] INFO SwaglLabs - Framework closed
+2024-08-30 20:46:25,994 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:46:42,338 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 20:46:42,675 [main] INFO SwaglLabs - 4
+2024-08-30 20:46:42,685 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 20:46:42,692 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 20:46:42,698 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 20:46:42,704 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 20:47:07,835 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 20:47:12,842 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 20:47:20,580 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 20:47:40,933 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 20:47:45,941 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 20:47:46,043 [main] INFO SwaglLabs - Framework closed
+2024-08-30 20:48:29,632 [TestNG-tests-2] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:48:29,634 [TestNG-tests-1] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:48:48,315 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 20:48:48,315 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 20:48:48,584 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is failure
+2024-08-30 20:48:58,618 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 20:48:58,970 [TestNG-tests-2] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 20:48:58,970 [TestNG-tests-2] INFO SwaglLabs - validateaddtocarttestTest is skipped
+2024-08-30 20:48:58,989 [TestNG-tests-2] INFO SwaglLabs - Framework closed
+2024-08-30 20:49:15,141 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 20:49:15,509 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 20:49:18,164 [TestNG-tests-1] INFO SwaglLabs - Framework closed
+2024-08-30 20:52:56,414 [TestNG-tests-1] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:52:56,416 [TestNG-tests-2] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:53:18,185 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 20:53:18,186 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 20:53:28,521 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 20:53:28,550 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is failure
+2024-08-30 20:53:28,911 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 20:53:28,911 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-30 20:53:28,926 [TestNG-tests-1] INFO SwaglLabs - Framework closed
+2024-08-30 20:53:47,698 [TestNG-tests-2] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 20:54:08,064 [TestNG-tests-2] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 20:54:13,073 [TestNG-tests-2] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 20:54:13,166 [TestNG-tests-2] INFO SwaglLabs - Framework closed
+2024-08-30 20:56:48,279 [TestNG-tests-2] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:56:48,280 [TestNG-tests-1] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:57:06,380 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 20:57:06,380 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 20:57:06,976 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is failure
+2024-08-30 20:57:16,985 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 20:57:17,682 [TestNG-tests-2] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 20:57:17,682 [TestNG-tests-2] INFO SwaglLabs - validateaddtocarttestTest is skipped
+2024-08-30 20:57:17,698 [TestNG-tests-2] INFO SwaglLabs - Framework closed
+2024-08-30 20:57:32,809 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 20:57:33,151 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 20:57:33,807 [TestNG-tests-1] INFO SwaglLabs - Framework closed
+2024-08-30 20:58:51,295 [TestNG-tests-1] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:58:51,294 [TestNG-tests-2] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 20:59:13,709 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 20:59:13,711 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 20:59:14,018 [TestNG-tests-1] INFO SwaglLabs - validatelogintestTest is failure
+2024-08-30 20:59:24,033 [TestNG-tests-2] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 20:59:24,390 [TestNG-tests-2] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 20:59:24,390 [TestNG-tests-2] INFO SwaglLabs - validateaddtocarttestTest is skipped
+2024-08-30 20:59:24,407 [TestNG-tests-2] INFO SwaglLabs - Framework closed
+2024-08-30 20:59:50,771 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 20:59:51,132 [TestNG-tests-1] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 20:59:51,848 [TestNG-tests-1] INFO SwaglLabs - Framework closed
+2024-08-30 21:02:38,457 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:02:52,142 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 21:02:52,508 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 21:03:04,539 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 21:03:04,897 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is failure
+2024-08-30 21:03:07,258 [main] INFO SwaglLabs - Framework closed
+2024-08-30 21:03:07,282 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:03:13,196 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 21:03:13,514 [main] INFO SwaglLabs - 4
+2024-08-30 21:03:13,523 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 21:03:13,530 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 21:03:13,536 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 21:03:13,542 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 21:03:38,674 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 21:03:43,685 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 21:03:50,468 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 21:04:10,795 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 21:04:15,804 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 21:04:15,944 [main] INFO SwaglLabs - Framework closed
+2024-08-30 21:04:54,122 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:07:56,906 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 21:07:56,907 [main] INFO SwaglLabs - validatelogintestTest is skipped
+2024-08-30 21:07:56,913 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 21:07:56,913 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-30 21:07:56,918 [main] INFO SwaglLabs - Framework closed
+2024-08-30 21:07:56,959 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:08:28,435 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 21:08:41,132 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 21:08:41,137 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is failure
+2024-08-30 21:08:41,141 [main] INFO SwaglLabs - Framework closed
+2024-08-30 21:08:55,378 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:10:25,001 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:17:44,914 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:55:54,857 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:57:58,270 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 21:57:58,271 [main] INFO SwaglLabs - validatelogintestTest is skipped
+2024-08-30 21:57:58,279 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 21:57:58,279 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is skipped
+2024-08-30 21:57:58,285 [main] INFO SwaglLabs - Framework closed
+2024-08-30 21:57:58,343 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:58:06,018 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:58:10,896 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 21:58:11,283 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 21:58:17,076 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 21:58:17,452 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is completed
+2024-08-30 21:58:18,197 [main] INFO SwaglLabs - Framework closed
+2024-08-30 21:58:18,214 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 21:58:20,653 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 21:58:21,052 [main] INFO SwaglLabs - 4
+2024-08-30 21:58:21,065 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 21:58:21,075 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 21:58:21,084 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 21:58:21,095 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 21:58:46,232 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 21:58:51,242 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 21:58:53,151 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 21:59:13,517 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 21:59:18,527 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 21:59:18,627 [main] INFO SwaglLabs - Framework closed
+2024-08-30 22:23:20,401 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 22:23:20,442 [main] INFO SwaglLabs - Framework closed
+2024-08-30 22:27:02,556 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 22:27:14,748 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 22:27:15,154 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 22:27:22,121 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 22:27:22,463 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is completed
+2024-08-30 22:27:23,461 [main] INFO SwaglLabs - Framework closed
+2024-08-30 22:27:23,481 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 22:27:28,125 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 22:27:28,499 [main] INFO SwaglLabs - 4
+2024-08-30 22:27:28,511 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 22:27:28,519 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 22:27:28,529 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 22:27:28,539 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 22:27:53,701 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 22:27:58,714 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 22:28:02,317 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 22:28:22,683 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 22:28:27,697 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 22:28:27,812 [main] INFO SwaglLabs - Framework closed
+2024-08-30 22:34:55,622 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 22:35:00,856 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 22:35:01,318 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 22:35:06,680 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 22:35:07,030 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is completed
+2024-08-30 22:35:07,790 [main] INFO SwaglLabs - Framework closed
+2024-08-30 22:35:07,803 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 22:35:09,872 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 22:35:10,330 [main] INFO SwaglLabs - 4
+2024-08-30 22:35:10,341 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 22:35:10,349 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 22:35:10,356 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 22:35:10,365 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 22:35:35,487 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 22:35:40,487 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 22:35:42,655 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 22:36:03,010 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 22:36:08,024 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 22:36:08,140 [main] INFO SwaglLabs - Framework closed
+2024-08-30 22:39:02,522 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 22:39:09,024 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-08-30 22:39:09,464 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-08-30 22:39:17,349 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-08-30 22:39:17,702 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is completed
+2024-08-30 22:39:18,379 [main] INFO SwaglLabs - Framework closed
+2024-08-30 22:39:18,411 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-08-30 22:39:22,125 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-08-30 22:39:22,516 [main] INFO SwaglLabs - 4
+2024-08-30 22:39:22,529 [main] INFO SwaglLabs - Name (A to Z)
+2024-08-30 22:39:22,540 [main] INFO SwaglLabs - Name (Z to A)
+2024-08-30 22:39:22,548 [main] INFO SwaglLabs - Price (low to high)
+2024-08-30 22:39:22,551 [main] INFO SwaglLabs - Price (high to low)
+2024-08-30 22:39:47,680 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 22:39:52,693 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-08-30 22:39:59,010 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-08-30 22:40:19,327 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-08-30 22:40:24,341 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-08-30 22:40:24,433 [main] INFO SwaglLabs - Framework closed

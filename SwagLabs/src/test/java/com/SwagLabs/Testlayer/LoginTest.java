@@ -34,7 +34,7 @@ public class LoginTest extends TestBase {
 		loginpageobj.clickonloginbutton();
 		
 		String Actual_Result = loginpageobj.geterrormsg();
-		Assert.fail();
+	
 		Assert.assertEquals(Actual_Result,Expected_Result);
 		
 	}

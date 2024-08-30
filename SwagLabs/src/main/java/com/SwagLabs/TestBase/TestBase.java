@@ -12,6 +12,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
 
 public class TestBase {
 	
@@ -29,9 +30,15 @@ public class TestBase {
 		logger.info("Framework closed");
 		
 	}
+	
+	@Parameters("browserName")
+	
 	@BeforeMethod
-	public void setup() {
-		String br = "chrome";
+	public void setup(String br) {
+		//String br = "Firefoxdriver";
+		{
+			
+		driver= null;
 		if(br.equalsIgnoreCase("chrome")) {
 			driver = new ChromeDriver();
 			
@@ -53,7 +60,7 @@ public class TestBase {
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		
-	}
+		}}
 	@AfterMethod
 	public void close() {
 		driver.close();
