@@ -5,7 +5,8 @@
     <listener class-name="com.SwagLabs.Utility.ListenerSetUp"/>
     <listener class-name="com.SwagLabs.Utility.ExtentReportNG"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)">
+  <test thread-count="5" name="swaglabs(failed)">
+    <parameter name="browserName" value="FirefoxDriver"/>
     <classes>
       <class name="com.SwagLabs.Testlayer.LoginTest">
         <methods>
@@ -17,5 +18,5 @@
         </methods>
       </class> <!-- com.SwagLabs.Testlayer.LoginTest -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- swaglabs(failed) -->
 </suite> <!-- Failed suite [Suite] -->
