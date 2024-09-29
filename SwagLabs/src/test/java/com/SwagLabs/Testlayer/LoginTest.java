@@ -21,6 +21,8 @@ public class LoginTest extends TestBase {
 		
 		String Actual_Result=loginpageobj.geturl();
 		Assert.assertEquals(Actual_Result,Expected_url);
+		logger.info(Actual_Result);
+		logger.info(Expected_url);
 	}
 	
 	@Test
@@ -36,7 +38,8 @@ public class LoginTest extends TestBase {
 		String Actual_Result = loginpageobj.geterrormsg();
 	
 		Assert.assertEquals(Actual_Result,Expected_Result);
-		
+		logger.info(Expected_Result);
+		logger.info(Actual_Result);
 	}
 	
 	

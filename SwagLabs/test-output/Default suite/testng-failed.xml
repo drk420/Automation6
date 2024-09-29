@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.SwagLabs.Testlayer.Addtocarttest">
+      <class name="com.SwagLabs.Testlayer.LoginTest">
         <methods>
           <include name="stop"/>
-          <include name="validateaddtocartfunctionalitywithpricelowtohigh"/>
           <include name="setup"/>
           <include name="close"/>
           <include name="start"/>
+          <include name="validatelogintestwithinvalidcredntials"/>
         </methods>
-      </class> <!-- com.SwagLabs.Testlayer.Addtocarttest -->
+      </class> <!-- com.SwagLabs.Testlayer.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
