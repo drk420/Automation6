@@ -19,6 +19,8 @@ public class LoginPage extends TestBase {
 	@FindBy(xpath="//input[@id='user-name']")
 	private WebElement username_textbox;
 	
+	@FindBy(xpath="//body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]")
+	private WebElement addcart_element;
 	
 	@FindBy(xpath="//input[@id='password']")
 	private WebElement password_textbox;
@@ -55,5 +57,8 @@ public class LoginPage extends TestBase {
 		String errormsg = error_msg.getText();
 		return errormsg;
 	}
-	
+	public void clickonaddtocart() {
+		
+		addcart_element.click();
+	}
 }

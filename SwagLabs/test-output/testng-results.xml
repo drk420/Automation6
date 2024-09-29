@@ -1,109 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-30T21:58:05 IST" name="Suite" finished-at="2024-08-30T21:59:18 IST" duration-ms="72690">
+  <suite started-at="2024-09-29T21:21:30 IST" name="Default suite" finished-at="2024-09-29T21:21:30 IST" duration-ms="166">
     <groups>
     </groups>
-    <test started-at="2024-08-30T21:58:05 IST" name="swaglabs" finished-at="2024-08-30T21:58:18 IST" duration-ms="12260">
+    <test started-at="2024-09-29T21:21:30 IST" name="Default test" finished-at="2024-09-29T21:21:30 IST" duration-ms="166">
       <class name="com.SwagLabs.Testlayer.LoginTest">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@2a65fe7c]" started-at="2024-08-30T21:58:05 IST" name="start" finished-at="2024-08-30T21:58:06 IST" duration-ms="75" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@4562e04d]" started-at="2024-09-29T21:21:30 IST" name="start" finished-at="2024-09-29T21:21:30 IST" duration-ms="108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@2a65fe7c]" started-at="2024-08-30T21:58:06 IST" name="setup" finished-at="2024-08-30T21:58:10 IST" duration-ms="4847" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[FirefoxDriver]]>
-              </value>
-            </param>
-          </params>
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@4562e04d]" started-at="2024-09-29T21:21:30 IST" name="setup" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1727625090647" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browserName' is required by BeforeMethod on method setup but has not been marked @Optional or defined
+in C:\Users\DELL\AppData\Local\Temp\testng-eclipse-1965179198\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browserName' is required by BeforeMethod on method setup but has not been marked @Optional or defined
+in C:\Users\DELL\AppData\Local\Temp\testng-eclipse-1965179198\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:267)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:355)
+at org.testng.internal.Parameters.createParameters(Parameters.java:684)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:166)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:306)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:810)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:577)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="validatelogintest()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@2a65fe7c]" started-at="2024-08-30T21:58:10 IST" name="validatelogintest" finished-at="2024-08-30T21:58:11 IST" duration-ms="393" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validatelogintest -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@2a65fe7c]" started-at="2024-08-30T21:58:11 IST" name="close" finished-at="2024-08-30T21:58:12 IST" duration-ms="794" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- close -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@2a65fe7c]" started-at="2024-08-30T21:58:12 IST" name="setup" finished-at="2024-08-30T21:58:17 IST" duration-ms="4996" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[FirefoxDriver]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="validatelogintestwithinvalidcredntials()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@2a65fe7c]" started-at="2024-08-30T21:58:17 IST" name="validatelogintestwithinvalidcredntials" finished-at="2024-08-30T21:58:17 IST" duration-ms="377" status="PASS">
+        <test-method signature="validatelogintestwithinvalidcredntials()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@4562e04d]" started-at="2024-09-29T21:21:30 IST" name="validatelogintestwithinvalidcredntials" finished-at="2024-09-29T21:21:30 IST" duration-ms="0" status="SKIP">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browserName' is required by BeforeMethod on method setup but has not been marked @Optional or defined
+in C:\Users\DELL\AppData\Local\Temp\testng-eclipse-1965179198\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browserName' is required by BeforeMethod on method setup but has not been marked @Optional or defined
+in C:\Users\DELL\AppData\Local\Temp\testng-eclipse-1965179198\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:267)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:355)
+at org.testng.internal.Parameters.createParameters(Parameters.java:684)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:166)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:306)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:810)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:577)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatelogintestwithinvalidcredntials -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@2a65fe7c]" started-at="2024-08-30T21:58:17 IST" name="close" finished-at="2024-08-30T21:58:18 IST" duration-ms="742" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@4562e04d]" started-at="2024-09-29T21:21:30 IST" name="close" finished-at="2024-09-29T21:21:30 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-        <test-method is-config="true" signature="stop()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@2a65fe7c]" started-at="2024-08-30T21:58:18 IST" name="stop" finished-at="2024-08-30T21:58:18 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.SwagLabs.Testlayer.LoginTest@4562e04d]" started-at="2024-09-29T21:21:30 IST" name="stop" finished-at="2024-09-29T21:21:30 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stop -->
       </class> <!-- com.SwagLabs.Testlayer.LoginTest -->
-    </test> <!-- swaglabs -->
-    <test started-at="2024-08-30T21:58:18 IST" name="swaglabstest" finished-at="2024-08-30T21:59:18 IST" duration-ms="60416">
-      <class name="com.SwagLabs.Testlayer.Addtocarttest">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.SwagLabs.Testlayer.Addtocarttest@702657cc]" started-at="2024-08-30T21:58:18 IST" name="start" finished-at="2024-08-30T21:58:18 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- start -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SwagLabs.Testlayer.Addtocarttest@702657cc]" started-at="2024-08-30T21:58:18 IST" name="setup" finished-at="2024-08-30T21:58:20 IST" duration-ms="2437" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="validateaddtocartfunctionalitywithpricelowtohigh()[pri:0, instance:com.SwagLabs.Testlayer.Addtocarttest@702657cc]" started-at="2024-08-30T21:58:20 IST" name="validateaddtocartfunctionalitywithpricelowtohigh" finished-at="2024-08-30T21:58:51 IST" duration-ms="30590" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateaddtocartfunctionalitywithpricelowtohigh -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.SwagLabs.Testlayer.Addtocarttest@702657cc]" started-at="2024-08-30T21:58:51 IST" name="close" finished-at="2024-08-30T21:58:51 IST" duration-ms="65" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- close -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.SwagLabs.Testlayer.Addtocarttest@702657cc]" started-at="2024-08-30T21:58:51 IST" name="setup" finished-at="2024-08-30T21:58:53 IST" duration-ms="1841" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="validateaddtocarttest()[pri:0, instance:com.SwagLabs.Testlayer.Addtocarttest@702657cc]" started-at="2024-08-30T21:58:53 IST" name="validateaddtocarttest" finished-at="2024-08-30T21:59:18 IST" duration-ms="25377" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validateaddtocarttest -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.SwagLabs.Testlayer.Addtocarttest@702657cc]" started-at="2024-08-30T21:59:18 IST" name="close" finished-at="2024-08-30T21:59:18 IST" duration-ms="100" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- close -->
-        <test-method is-config="true" signature="stop()[pri:0, instance:com.SwagLabs.Testlayer.Addtocarttest@702657cc]" started-at="2024-08-30T21:59:18 IST" name="stop" finished-at="2024-08-30T21:59:18 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- stop -->
-      </class> <!-- com.SwagLabs.Testlayer.Addtocarttest -->
-    </test> <!-- swaglabstest -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

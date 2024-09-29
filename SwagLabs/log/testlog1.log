@@ -546,3 +546,77 @@
 2024-08-30 22:40:19,327 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
 2024-08-30 22:40:24,341 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
 2024-08-30 22:40:24,433 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:04:21,014 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:04:21,063 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:04:30,839 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:04:30,891 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:05:11,591 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:05:11,643 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:06:14,131 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:06:14,206 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:07:09,674 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:07:18,361 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-09-29 21:07:18,932 [main] INFO SwaglLabs - https://www.saucedemo.com/inventory.html
+2024-09-29 21:07:18,932 [main] INFO SwaglLabs - https://www.saucedemo.com/inventory.html
+2024-09-29 21:07:18,934 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-09-29 21:07:24,805 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-09-29 21:07:25,192 [main] INFO SwaglLabs - Epic sadface: Username and password do not match any user in this service
+2024-09-29 21:07:25,192 [main] INFO SwaglLabs - Epic sadface: Username and password do not match any user in this service
+2024-09-29 21:07:25,193 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is completed
+2024-09-29 21:07:26,061 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:07:26,092 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:07:30,713 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-09-29 21:07:31,345 [main] INFO SwaglLabs - 4
+2024-09-29 21:07:31,365 [main] INFO SwaglLabs - Name (A to Z)
+2024-09-29 21:07:31,376 [main] INFO SwaglLabs - Name (Z to A)
+2024-09-29 21:07:31,389 [main] INFO SwaglLabs - Price (low to high)
+2024-09-29 21:07:31,405 [main] INFO SwaglLabs - Price (high to low)
+2024-09-29 21:07:56,609 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-09-29 21:08:01,613 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-09-29 21:08:04,357 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-09-29 21:08:24,995 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-09-29 21:08:30,003 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-09-29 21:08:30,112 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:10:11,140 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:10:11,207 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:10:16,262 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:10:16,333 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:10:16,571 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:10:16,638 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:10:22,594 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:10:22,642 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:12:04,739 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:12:04,804 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:12:28,994 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:12:29,036 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:14:28,460 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:14:34,029 [main] INFO SwaglLabs - validatelogintestTest is started
+2024-09-29 21:14:34,477 [main] INFO SwaglLabs - https://www.saucedemo.com/inventory.html
+2024-09-29 21:14:34,477 [main] INFO SwaglLabs - https://www.saucedemo.com/inventory.html
+2024-09-29 21:14:34,480 [main] INFO SwaglLabs - validatelogintestTest is completed
+2024-09-29 21:14:40,793 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is started
+2024-09-29 21:14:41,208 [main] INFO SwaglLabs - Epic sadface: Username and password do not match any user in this service
+2024-09-29 21:14:41,208 [main] INFO SwaglLabs - Epic sadface: Username and password do not match any user in this service
+2024-09-29 21:14:41,209 [main] INFO SwaglLabs - validatelogintestwithinvalidcredntialsTest is completed
+2024-09-29 21:14:42,167 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:14:42,190 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:14:44,558 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-09-29 21:14:45,146 [main] INFO SwaglLabs - 4
+2024-09-29 21:14:45,161 [main] INFO SwaglLabs - Name (A to Z)
+2024-09-29 21:14:45,172 [main] INFO SwaglLabs - Name (Z to A)
+2024-09-29 21:14:45,182 [main] INFO SwaglLabs - Price (low to high)
+2024-09-29 21:14:45,197 [main] INFO SwaglLabs - Price (high to low)
+2024-09-29 21:15:10,386 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-09-29 21:15:15,398 [main] INFO SwaglLabs - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-09-29 21:15:17,565 [main] INFO SwaglLabs - validateaddtocarttestTest is started
+2024-09-29 21:15:38,147 [main] INFO SwaglLabs - https://www.saucedemo.com/cart.html
+2024-09-29 21:15:43,153 [main] INFO SwaglLabs - validateaddtocarttestTest is completed
+2024-09-29 21:15:43,305 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:15:43,305 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:15:45,257 [main] INFO SwaglLabs - addtocarttestTest is started
+2024-09-29 21:15:45,767 [main] INFO SwaglLabs - addtocarttestTest is completed
+2024-09-29 21:15:45,911 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:17:54,631 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:17:54,683 [main] INFO SwaglLabs - Framework closed
+2024-09-29 21:21:30,618 [main] INFO SwaglLabs - Swag Labs Framework Started
+2024-09-29 21:21:30,670 [main] INFO SwaglLabs - Framework closed

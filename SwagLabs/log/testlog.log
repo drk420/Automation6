@@ -546,3 +546,77 @@
 2024-08-30 22:40:19,327 - SwaglLabs -INFO - https://www.saucedemo.com/cart.html
 2024-08-30 22:40:24,341 - SwaglLabs -INFO - validateaddtocarttestTest is completed
 2024-08-30 22:40:24,433 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:04:21,014 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:04:21,063 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:04:30,839 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:04:30,891 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:05:11,591 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:05:11,643 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:06:14,131 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:06:14,206 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:07:09,674 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:07:18,361 - SwaglLabs -INFO - validatelogintestTest is started
+2024-09-29 21:07:18,932 - SwaglLabs -INFO - https://www.saucedemo.com/inventory.html
+2024-09-29 21:07:18,932 - SwaglLabs -INFO - https://www.saucedemo.com/inventory.html
+2024-09-29 21:07:18,934 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-09-29 21:07:24,805 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-09-29 21:07:25,192 - SwaglLabs -INFO - Epic sadface: Username and password do not match any user in this service
+2024-09-29 21:07:25,192 - SwaglLabs -INFO - Epic sadface: Username and password do not match any user in this service
+2024-09-29 21:07:25,193 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is completed
+2024-09-29 21:07:26,061 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:07:26,092 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:07:30,713 - SwaglLabs -INFO - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-09-29 21:07:31,345 - SwaglLabs -INFO - 4
+2024-09-29 21:07:31,365 - SwaglLabs -INFO - Name (A to Z)
+2024-09-29 21:07:31,376 - SwaglLabs -INFO - Name (Z to A)
+2024-09-29 21:07:31,389 - SwaglLabs -INFO - Price (low to high)
+2024-09-29 21:07:31,405 - SwaglLabs -INFO - Price (high to low)
+2024-09-29 21:07:56,609 - SwaglLabs -INFO - https://www.saucedemo.com/cart.html
+2024-09-29 21:08:01,613 - SwaglLabs -INFO - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-09-29 21:08:04,357 - SwaglLabs -INFO - validateaddtocarttestTest is started
+2024-09-29 21:08:24,995 - SwaglLabs -INFO - https://www.saucedemo.com/cart.html
+2024-09-29 21:08:30,003 - SwaglLabs -INFO - validateaddtocarttestTest is completed
+2024-09-29 21:08:30,112 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:10:11,140 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:10:11,207 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:10:16,262 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:10:16,333 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:10:16,571 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:10:16,638 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:10:22,594 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:10:22,642 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:12:04,739 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:12:04,804 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:12:28,994 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:12:29,036 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:14:28,460 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:14:34,029 - SwaglLabs -INFO - validatelogintestTest is started
+2024-09-29 21:14:34,477 - SwaglLabs -INFO - https://www.saucedemo.com/inventory.html
+2024-09-29 21:14:34,477 - SwaglLabs -INFO - https://www.saucedemo.com/inventory.html
+2024-09-29 21:14:34,480 - SwaglLabs -INFO - validatelogintestTest is completed
+2024-09-29 21:14:40,793 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is started
+2024-09-29 21:14:41,208 - SwaglLabs -INFO - Epic sadface: Username and password do not match any user in this service
+2024-09-29 21:14:41,208 - SwaglLabs -INFO - Epic sadface: Username and password do not match any user in this service
+2024-09-29 21:14:41,209 - SwaglLabs -INFO - validatelogintestwithinvalidcredntialsTest is completed
+2024-09-29 21:14:42,167 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:14:42,190 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:14:44,558 - SwaglLabs -INFO - validateaddtocartfunctionalitywithpricelowtohighTest is started
+2024-09-29 21:14:45,146 - SwaglLabs -INFO - 4
+2024-09-29 21:14:45,161 - SwaglLabs -INFO - Name (A to Z)
+2024-09-29 21:14:45,172 - SwaglLabs -INFO - Name (Z to A)
+2024-09-29 21:14:45,182 - SwaglLabs -INFO - Price (low to high)
+2024-09-29 21:14:45,197 - SwaglLabs -INFO - Price (high to low)
+2024-09-29 21:15:10,386 - SwaglLabs -INFO - https://www.saucedemo.com/cart.html
+2024-09-29 21:15:15,398 - SwaglLabs -INFO - validateaddtocartfunctionalitywithpricelowtohighTest is completed
+2024-09-29 21:15:17,565 - SwaglLabs -INFO - validateaddtocarttestTest is started
+2024-09-29 21:15:38,147 - SwaglLabs -INFO - https://www.saucedemo.com/cart.html
+2024-09-29 21:15:43,153 - SwaglLabs -INFO - validateaddtocarttestTest is completed
+2024-09-29 21:15:43,305 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:15:43,305 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:15:45,257 - SwaglLabs -INFO - addtocarttestTest is started
+2024-09-29 21:15:45,767 - SwaglLabs -INFO - addtocarttestTest is completed
+2024-09-29 21:15:45,911 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:17:54,631 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:17:54,683 - SwaglLabs -INFO - Framework closed
+2024-09-29 21:21:30,618 - SwaglLabs -INFO - Swag Labs Framework Started
+2024-09-29 21:21:30,670 - SwaglLabs -INFO - Framework closed

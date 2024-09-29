@@ -15,6 +15,14 @@
 	  <parameter name="browserName" value="Chrome"/>
 	  <classes>
 		<class name="com.SwagLabs.Testlayer.Addtocarttest"/>
+		
+	  </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="swaglabste">
+	  <parameter name="browserName" value="Chrome"/>
+	  <classes>
+		<class name="com.SwagLabs.Testlayer.AddTOCart"/>
+		
 	  </classes>
   </test> <!-- Test -->
   </suite> <!-- Suite -->
